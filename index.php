@@ -1,3 +1,4 @@
 <?php
-echo "Hello kanon";
+echo "Hello kanon <br>";
+echo "It's really good";
 ?>
