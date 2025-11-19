@@ -1,0 +1,23 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "sshOptions": {
+                "port": 22
+            },
+            "driver": "MySQL",
+            "name": "Mysql Local",
+            "database": "Lab1",
+            "username": "root",
+            "password": "kanon2003",
+            "connectionTimeout": 30
+        }
+    ]
+}
