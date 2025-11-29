@@ -6,3 +6,4 @@ $username = false;
 } else {
     echo "Username is set";
 }
+?>
